@@ -1,0 +1,203 @@
+absolufy-imports @ file:///home/conda/feedstock_root/build_artifacts/absolufy-imports_1650889128687/work
+aiodns @ file:///Users/ec2-user/croot/aiodns_1772098412795/work
+aiohappyeyeballs @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_86beu757ao/croot/aiohappyeyeballs_1755769847762/work
+aiohttp @ file:///opt/miniconda3/conda-bld/aiohttp_1762519752180/work
+aiosignal @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e3cjtbh902/croot/aiosignal_1755870814211/work
+alembic @ file:///Users/ec2-user/croot/alembic_1772101458553/work
+annotated-doc @ file:///opt/miniconda3/conda-bld/annotated-doc_1763372656251/work
+annotated-types @ file:///opt/miniconda3/conda-bld/annotated-types_1761744946224/work
+anyio @ file:///Users/ec2-user/croot/anyio_1773134415423/work
+appnope @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_46iquy4y0r/croot/appnope_1750774774351/work
+argon2-cffi @ file:///Users/ec2-user/croot/argon2-cffi_1766067819649/work
+argon2-cffi-bindings @ file:///opt/miniconda3/conda-bld/argon2-cffi-bindings_1757924854450/work
+asttokens @ file:///Users/ec2-user/croot/asttokens_1773135785767/work
+async-lru @ file:///opt/miniconda3/conda-bld/async-lru_1761121451081/work
+attrs @ file:///Users/ec2-user/croot/attrs_1774959629404/work
+Authlib @ file:///Users/ec2-user/croot/authlib_1775206352370/work
+babel @ file:///opt/miniconda3/conda-bld/babel_1764159299779/work
+beautifulsoup4 @ file:///Users/ec2-user/croot/beautifulsoup4-split_1770291777059/work
+bleach @ file:///opt/miniconda3/conda-bld/bleach_1764153568575/work
+brotlicffi @ file:///opt/miniconda3/conda-bld/brotlicffi_1764961160997/work
+cachetools @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4dwsj6_xj_/croot/cachetools_1738225342715/work
+certifi @ file:///Users/ec2-user/croot/certifi_1776971113466/work/certifi
+cffi @ file:///opt/miniconda3/conda-bld/cffi_1761832774621/work
+charset-normalizer @ file:///opt/miniconda3/conda-bld/charset-normalizer_1761744840108/work
+click @ file:///opt/miniconda3/conda-bld/click_1764332244664/work
+cloudpickle==3.1.2
+comm @ file:///opt/miniconda3/conda-bld/comm_1763119153597/work
+cryptography @ file:///Users/ec2-user/croot/cryptography-split_1775672015803/work
+debugpy @ file:///opt/miniconda3/conda-bld/debugpy_1762421636098/work
+decorator @ file:///opt/miniconda3/conda-bld/decorator_1757341237667/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+distro @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ddkyz0575y/croot/distro_1714488254309/work
+dnspython @ file:///opt/miniconda3/conda-bld/dnspython_1763718231839/work
+docstring_parser @ file:///Users/ec2-user/croot/docstring_parser_1766163584995/work
+email-validator @ file:///opt/miniconda3/conda-bld/email-validator-meta_1758610112771/work
+executing @ file:///opt/miniconda3/conda-bld/executing_1757061274032/work
+fastapi @ file:///Users/ec2-user/croot/fastapi-split_1768401102456/work
+fastapi-cli @ file:///Users/ec2-user/croot/fastapi-cli_1768373424396/work
+fastjsonschema @ file:///opt/miniconda3/conda-bld/python-fastjsonschema_1763718700638/work
+frozenlist @ file:///opt/miniconda3/conda-bld/frozenlist_1761062014285/work
+google-adk @ file:///home/conda/feedstock_root/build_artifacts/google-adk_1757926846029/work
+google-api-core @ file:///Users/ec2-user/croot/google-api-core-split_1770889044739/work
+google-api-python-client @ file:///home/conda/feedstock_root/build_artifacts/google-api-python-client_1775702342692/work
+google-auth==2.50.0
+google-auth-httplib2 @ file:///home/conda/feedstock_root/build_artifacts/google-auth-httplib2_1765878580853/work
+google-cloud-aiplatform==1.149.0
+google-cloud-appengine-logging==1.9.0
+google-cloud-audit-log==0.5.0
+google-cloud-bigquery @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_google-cloud-bigquery-core_1774963154/work
+google-cloud-bigtable @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_google-cloud-bigtable_1775210691/work
+google-cloud-core @ file:///Users/ec2-user/croot/google-cloud-core_1771252077905/work
+google-cloud-iam==2.22.0
+google-cloud-logging==3.15.0
+google-cloud-monitoring @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_google-cloud-monitoring_1768573228/work
+google-cloud-resource-manager @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_google-cloud-resource-manager_1768563637/work
+google-cloud-secret-manager @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_google-cloud-secret-manager_1768562127/work
+google-cloud-spanner @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_google-cloud-spanner_1776171975/work
+google-cloud-speech @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_google-cloud-speech_1768747059/work
+google-cloud-storage @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_ce5rid9_8u/croot/google-cloud-storage_1722029086270/work
+google-cloud-trace @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_google-cloud-trace_1768670580/work
+google-crc32c @ file:///Users/ec2-user/croot/google-crc32c_1769951815539/work
+google-genai==1.74.0
+google-resumable-media @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_261mlc_orj/croot/google-resumable-media_1742998749160/work
+googleapis-common-protos @ file:///Users/ec2-user/croot/googleapis-common-protos-feedstock_1770382361926/work
+graphviz @ file:///Users/ec2-user/croot/python-graphviz_1774468402589/work
+greenlet @ file:///Users/ec2-user/croot/greenlet_1774949565283/work
+grpc-google-iam-v1 @ file:///Users/ec2-user/croot/grpc-google-iam-v1_1767954968101/work
+grpc-interceptor @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_f5xyb7xe6d/croot/grpc-interceptor_1751373493414/work
+grpcio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_cfvg1gbxnd/croot/grpc-split_1742490251423/work
+grpcio-status @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4062n88hoe/croot/grpcio-status_1753877253228/work
+h11 @ file:///opt/miniconda3/conda-bld/h11_1761931258730/work
+html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
+httpcore @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_941yf7p5zt/croot/httpcore_1748526061031/work
+httplib2 @ file:///home/conda/feedstock_root/build_artifacts/httplib2_1769247521968/work
+httptools @ file:///opt/miniconda3/conda-bld/httptools_1763634739247/work
+httpx @ file:///opt/miniconda3/conda-bld/httpx_1760447188226/work
+httpx-sse @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_fbbwdbjprx/croot/httpx-sse_1734627589622/work
+idna @ file:///opt/miniconda3/conda-bld/idna_1761912004936/work
+importlib_metadata @ file:///Users/ec2-user/croot/importlib_metadata-suite_1772099836386/work
+ipykernel @ file:///Users/ec2-user/croot/ipykernel_1772612351612/work
+ipython @ file:///Users/ec2-user/croot/ipython_1773996061951/work
+ipython_pygments_lexers @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_25fteymumy/croot/ipython_pygments_lexers_1744753256449/work
+ipywidgets @ file:///Users/ec2-user/croot/ipywidgets_1771500032311/work
+jedi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_38ctoinnl0/croot/jedi_1733987402850/work
+Jinja2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_2cnn4kenrm/croot/jinja2_1741710859444/work
+json5 @ file:///opt/miniconda3/conda-bld/json5_1763718542963/work
+jsonschema @ file:///Users/ec2-user/croot/jsonschema_1767955685781/work
+jsonschema-specifications @ file:///opt/miniconda3/conda-bld/jsonschema-specifications_1762788418429/work
+jupyter @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4eoc_4jij1/croot/jupyter_1737645814862/work
+jupyter-console @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jupyter_console_1707340206137/work
+jupyter-events @ file:///opt/miniconda3/conda-bld/jupyter_events_1765813598405/work
+jupyter-lsp @ file:///Users/ec2-user/croot/jupyter-lsp_1769773372695/work
+jupyter_client @ file:///Users/ec2-user/croot/jupyter_client_1768399006462/work
+jupyter_core @ file:///opt/miniconda3/conda-bld/jupyter_core_1764588284370/work
+jupyter_server @ file:///Users/ec2-user/croot/jupyter_server_1769613435736/work
+jupyter_server_terminals @ file:///Users/ec2-user/croot/jupyter_server_terminals_1770289302597/work
+jupyterlab @ file:///Users/ec2-user/croot/jupyterlab_1775126324103/work
+jupyterlab_pygments @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_42uijy7nfe/croot/jupyterlab_pygments_1741124161488/work
+jupyterlab_server @ file:///Users/ec2-user/croot/jupyterlab_server_1769629823893/work
+jupyterlab_widgets @ file:///Users/ec2-user/croot/jupyterlab_widgets_1771492388435/work
+libcst @ file:///opt/miniconda3/conda-bld/libcst_1764940963610/work
+Mako @ file:///Users/ec2-user/croot/mako_1776955127325/work
+markdown-it-py @ file:///Users/ec2-user/croot/markdown-it-py_1767001658042/work
+MarkupSafe @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1f_uj4vxik/croot/markupsafe_1738584045311/work
+matplotlib-inline @ file:///opt/miniconda3/conda-bld/matplotlib-inline_1762779171607/work
+mcp @ file:///Users/ec2-user/croot/mcp_1771960048039/work
+mdurl @ file:///opt/miniconda3/conda-bld/mdurl_1758552167969/work
+mistune @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5be80wp982/croot/mistune_1741123981908/work
+mmh3 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_c2678omy57/croot/mmh3_1736367223940/work
+multidict @ file:///Users/ec2-user/croot/multidict_1770629140008/work
+nbclient @ file:///Users/ec2-user/croot/nbclient_1771577058476/work
+nbconvert @ file:///Users/ec2-user/croot/nbconvert-meta_1772121300642/work
+nbformat @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2cv_qoc1gw/croot/nbformat_1728049423516/work
+nest-asyncio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_310vb5e2a0/croot/nest-asyncio_1708532678212/work
+notebook @ file:///Users/ec2-user/croot/notebook_1775139370613/work
+notebook_shim @ file:///Users/ec2-user/croot/notebook-shim_1769629837510/work
+opentelemetry-api==1.41.1
+opentelemetry-exporter-gcp-logging==1.12.0a0
+opentelemetry-exporter-gcp-trace @ file:///home/conda/feedstock_root/build_artifacts/opentelemetry-exporter-gcp-trace_1777413847267/work
+opentelemetry-exporter-otlp-proto-common==1.41.1
+opentelemetry-exporter-otlp-proto-http==1.41.1
+opentelemetry-proto==1.41.1
+opentelemetry-resourcedetector-gcp @ file:///home/conda/feedstock_root/build_artifacts/opentelemetry-resourcedetector-gcp_1777417790081/work
+opentelemetry-sdk==1.41.1
+opentelemetry-semantic-conventions==0.62b1
+packaging==26.0
+pandocfilters @ file:///opt/miniconda3/conda-bld/pandocfilters_1756977615516/work
+parso @ file:///opt/miniconda3/conda-bld/parso_1762781704748/work
+pexpect @ file:///opt/miniconda3/conda-bld/pexpect_1762535936277/work
+platformdirs @ file:///Users/ec2-user/croot/platformdirs_1773652974741/work
+prometheus_client @ file:///Users/ec2-user/croot/prometheus_client_1772733395495/work
+prompt_toolkit @ file:///opt/miniconda3/conda-bld/prompt-toolkit_1761744880534/work
+propcache @ file:///opt/miniconda3/conda-bld/propcache_1765457307177/work
+proto-plus @ file:///Users/ec2-user/croot/proto-plus_1771938882083/work
+protobuf @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_73kluigbu7/croot/protobuf_1742426204819/work/bazel-bin/python/dist/protobuf-5.29.3-cp312-abi3-macosx_11_0_arm64.whl#sha256=b5608826ae8215f6d50e03bfc09753bf94446ed5d5a4168791e2061101a92279
+psutil @ file:///opt/miniconda3/conda-bld/psutil_1761896324488/work
+ptyprocess @ file:///opt/miniconda3/conda-bld/ptyprocess_1762424170819/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl#sha256=3470be7f810474c8a2ecfcd6e02acc6aea8483ab595417fa4e336362a349933e
+pure_eval @ file:///opt/miniconda3/conda-bld/pure_eval_1757067068604/work
+pyasn1 @ file:///Users/ec2-user/croot/pyasn1_1775166622614/work
+pyasn1_modules @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_42zeqecgwx/croot/pyasn1-modules_1752042896598/work
+pycares @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b01dqj7707/croot/pycares_1756217969873/work
+pycparser @ file:///Users/ec2-user/croot/pycparser_1774959667771/work
+pydantic @ file:///Users/ec2-user/croot/pydantic_1776761763283/work
+pydantic-extra-types @ file:///Users/ec2-user/croot/pydantic-extra-types_1768308437043/work
+pydantic-settings @ file:///opt/miniconda3/conda-bld/pydantic-settings_1764165152527/work
+pydantic_core @ file:///Users/ec2-user/croot/pydantic-core_1776694922542/work
+Pygments @ file:///Users/ec2-user/croot/pygments_1775127020713/work
+PyJWT @ file:///Users/ec2-user/croot/pyjwt_1773773799465/work
+pyOpenSSL @ file:///Users/ec2-user/croot/pyopenssl_1773772223807/work
+pyparsing @ file:///opt/miniconda3/conda-bld/pyparsing_1763973786901/work
+PySocks @ file:///opt/miniconda3/conda-bld/pysocks_1761753011230/work
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+python-dotenv @ file:///Users/ec2-user/croot/python-dotenv_1768559694395/work
+python-json-logger @ file:///opt/miniconda3/conda-bld/python-json-logger_1764590078361/work
+python-multipart @ file:///Users/ec2-user/croot/python-multipart_1770212958883/work
+PyYAML @ file:///opt/miniconda3/conda-bld/pyyaml_1763465492791/work
+pyzmq @ file:///opt/miniconda3/conda-bld/pyzmq_1762375616615/work
+qtconsole @ file:///Users/ec2-user/croot/qtconsole_1776670423495/work
+QtPy @ file:///opt/miniconda3/conda-bld/qtpy_1757531017923/work
+referencing @ file:///opt/miniconda3/conda-bld/referencing_1762536885752/work
+requests @ file:///Users/ec2-user/croot/requests_1775066140708/work
+rfc3339-validator @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/rfc3339-validator_1699249772675/work
+rfc3986-validator @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/rfc3986-validator_1699249792387/work
+rich @ file:///opt/miniconda3/conda-bld/rich_1760375481939/work
+rich-toolkit @ file:///Users/ec2-user/croot/rich-toolkit_1768308537842/work
+rpds-py @ file:///opt/miniconda3/conda-bld/rpds-py_1762366478883/work
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+Send2Trash @ file:///Users/ec2-user/croot/send2trash_1768170599114/work
+setuptools==82.0.1
+shellingham @ file:///opt/miniconda3/conda-bld/shellingham_1761912204037/work
+six @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_03myqm7p6o/croot/six_1744271511946/work
+sniffio @ file:///opt/miniconda3/conda-bld/sniffio_1764329150891/work
+soupsieve @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/soupsieve_1699282494776/work
+SQLAlchemy @ file:///Users/ec2-user/croot/sqlalchemy_1773755027859/work
+sqlalchemy-spanner @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_sqlalchemy-spanner_1774314968/work
+sqlparse @ file:///opt/miniconda3/conda-bld/sqlparse_1764240028269/work
+sse-starlette @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_ae89244inb/croot/sse-starlette_1745413112786/work
+stack_data @ file:///opt/miniconda3/conda-bld/stack_data_1757067043377/work
+starlette @ file:///opt/miniconda3/conda-bld/starlette-recipe_1756910684576/work
+tenacity @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e4laqy9gpr/croot/tenacity_1721222508993/work
+terminado @ file:///Users/ec2-user/croot/terminado_1769591698018/work
+tinycss2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_47tkvt_wcv/croot/tinycss2_1738338622484/work
+tornado @ file:///Users/ec2-user/croot/tornado_1774303634698/work
+traitlets @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_500m2_1wyk/croot/traitlets_1718227071952/work
+typer==0.20.0
+typer-slim==0.20.0
+typing-inspection @ file:///opt/miniconda3/conda-bld/typing-inspection_1760614168143/work
+typing_extensions @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_dffmcwqo6o/croot/typing_extensions_1756281471323/work
+tzlocal @ file:///opt/miniconda3/conda-bld/tzlocal_1763120288602/work
+uritemplate @ file:///home/conda/feedstock_root/build_artifacts/uritemplate_1748892307961/work
+urllib3 @ file:///Users/ec2-user/croot/urllib3_1767810399201/work
+uvicorn @ file:///Users/ec2-user/croot/uvicorn-split_1768226431971/work
+uvloop @ file:///opt/miniconda3/conda-bld/uvloop_1762175503255/work
+watchdog @ file:///opt/miniconda3/conda-bld/watchdog_1759775782514/work
+watchfiles @ file:///Users/ec2-user/croot/watchfiles_1767984622244/work
+wcwidth @ file:///Users/ec2-user/croot/wcwidth_1767780874421/work
+webencodings @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/webencodings_1699243630039/work
+websocket-client @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d37u7gqts8/croot/websocket-client_1715878310260/work
+websockets @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e0vmv5zsdp/croot/websockets_1751974426096/work
+wheel==0.46.3
+widgetsnbextension @ file:///opt/miniconda3/conda-bld/widgetsnbextension_1761556741808/work
+yarl @ file:///Users/ec2-user/croot/yarl_1773653270937/work
+zipp @ file:///opt/miniconda3/conda-bld/zipp_1763977861804/work
